@@ -7,6 +7,7 @@ Accessing Oracle  is not convenient when people are on the Go. Manual decisions 
 <li>Platform agnostic. App supports Android, iOS, and Windows. </li>
 <li>Integrate with Oracle EBS in real-time and access the application from Phone, Tablet or Desktop and the app takes only days to implement.</li>
 <li>Make decisions – approve, reject, delegate quickly by reviewing the required information including attachments.</li>
+<li> Oracle approved mobile app</li>
 
 # Business Benefits
 <li>Accelerated decision making.</li>
